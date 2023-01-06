@@ -3,5 +3,5 @@
   <project path="device/sony/pdx215" remote="github" name="Miustone/android_device_sony_pdx215" revision="lineage-19.0" />
     <project path="device/sony/sm8350-common" remote="github" name="  Miustone/android_device_sony_sm8350_common" revision="lineage-19.0" />
   <project path="vendor/sony" remote="github" name="Miustone/proprietary_vendor_sony" revision="lineage-19.0" />
-  <project path="kernel/sony/sm8350-common" remote="github" name="Miustone/android_kernel_sony_sm8350" revision="19.0" />
+  <project path="kernel/sony/sm8350-common" remote="github" name="Miustone/android_kernel_sony_sm8350" revision="61.0.A.23.20" />
 </manifest>
